@@ -4,6 +4,8 @@
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=dynamic11&show_icons=true&count_private=true)](https://github.com/dynamic11/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamic11&layout=compact)](https://github.com/dynamic11/github-readme-stats)
+
 ### Hi there 👋
 
 - :books: I am a Masters student in the field of electrical engineer in the area of Computer Aided Design. 
